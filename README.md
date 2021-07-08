@@ -1,5 +1,5 @@
-### Hello World 👋
-I am a fullstack software engineer from Florianópolis-SC Brazil
+### Hello Devs 👋
+I am a fullstack software engineer and project manager from Florianópolis-SC Brazil
 - 🔭 Working on multiple frontend and backend project using Angular, React Native and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
