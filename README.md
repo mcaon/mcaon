@@ -13,15 +13,19 @@ I am a fullstack software engineer and project manager from Florianópolis-SC Br
 
 ## Expertise
 
-### Frameworks and Languages
+### General
 
 <img align="left" alt="rn" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
 
-<img align="left" alt="swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+
+<br>
+
+### Languages/Supersets
+
+<img align="left" alt="swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
 
 <img align="left" alt="ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
