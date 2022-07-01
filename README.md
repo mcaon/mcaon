@@ -12,7 +12,7 @@ I am a fullstack software engineer and project manager from Florianópolis-SC Br
 <br>
 
 ## Expertise
-
+<br>
 ### Frameworks and Languages
 
 <img align="left" alt="rn" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -29,14 +29,17 @@ I am a fullstack software engineer and project manager from Florianópolis-SC Br
 
 <img align="left" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
+<br>
 ### Apps publishing and management
 <img align="left" alt="appstore" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
 
 <img align="left" alt="playstore" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 
+<br>
 ### State management
 <img align="left" alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 
+<br>
 ### Style
 
 <img align="left" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,6 +48,7 @@ I am a fullstack software engineer and project manager from Florianópolis-SC Br
 
 <img align="left" alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 
+<br>
 ### DevOps
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <br>
