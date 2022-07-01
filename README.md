@@ -29,7 +29,7 @@ I am a fullstack software engineer and project manager from Florianópolis-SC Br
 
 <img align="left" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
-<br>
+<br/>
 ### Apps publishing and management
 <img align="left" alt="appstore" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
 
